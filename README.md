@@ -59,13 +59,13 @@ If the applicant is not likely to repay the loan, i.e., he/she is likely to defa
 
 
 ## Technologies Used
-Jupyter Notebooks
-Anaconda Navigator
-Github
-Matplot lib
-Seaborn
-numpy
-pandas
+- Jupyter Notebooks
+- Anaconda Navigator
+- Github
+- Matplot lib
+- Seaborn
+- numpy
+- pandas
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
