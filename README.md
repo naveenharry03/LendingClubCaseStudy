@@ -34,21 +34,25 @@ Then once it is approved , it will be let to the investors who will provide the 
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Jupyter Notebooks
+Anaconda Navigator
+Github
+Matplot lib
+Seaborn
+numpy
+pandas
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by the financial companies where i came to know the process about the loan approvals.
+- Got many references from the internet in the banking terminologies
+- Thanks to upgrad on giving me this opportunity to work on this analysis
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@naveenharry03] - feel free to contact me! naveenharry03@gmail.com
 
 
 <!-- Optional -->
