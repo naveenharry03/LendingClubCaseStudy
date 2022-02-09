@@ -27,10 +27,32 @@ If the applicant is not likely to repay the loan, i.e., he/she is likely to defa
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Only less number of loan applications gets charged off compared to fully paid.Almost 30000 applications are fully paid, remaining 5000+ applications are charged off.
+Most of the loan Applications fall in the 36 terms and less in 60 terms.25000+ are in 36 months term and 60 months term lies in the range of (5000 - 10000)
+15000 Loan Applications are not verified , 10000+ applications are verified and source verified lies in the range of (5000 - 10000)
+Public Bankruptcies with 0 has maximum loan applications. Around 30000+ applications are with 0 value.(clean records)
+Rent is the highest home_ownership applied for the loan applications around 15000+. The next is mortgage with 15000 and (own, others) are very minimal
+Emp length who has 10 years of experience has the maximum loan applications which is around 8000
+Grade with B has the higher loan applications around 10000 and it goes on next with A,C,D.
+North East and West are the areas where more amount of loan applications received.
+Debt Consolidation is the highest chosen purpose among all the loan applications.The next is credit card
+2011 is the year having more no of loan applications.
+Loan Application count is gradually increasing with the increase of the year.
+Loan Application count is gradually increasing with the increase of/; the month.
+Dec is the month having more no of loan applications may be due to more festival seasons, they might have opt the loan.
+CA(California) is the highest addr_state to have more no of loan applications.
+Next is NY (New York) is second
+TX and FL are the next in the order
+The term which has 60 months has more defaulters
+The bankrupticies who has 2 has more chances of defaulting
+2007 has the most no of defaulters
+Then defaulters got decreased after 2007 and in 2011 it starts again increasing
+5th,9th,11th and 12th months has more no of defaulters.all these months have more festivals at that time
+Employee length who has 10 years of experience has more chances of defaulting
+In home ownership , other grp has the more chances of getting defaulters
+verified applications has more no of defaulters than not verified
+Small business has more no of defaulters and next is renewable energy has more no of defaulters
+Defaulters getting gradually increased when the grades are decreased. G grade has more number of defaulters.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
