@@ -26,7 +26,8 @@ If the applicant is not likely to repay the loan, i.e., he/she is likely to defa
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
+#### Conclusions
+
   Only less number of loan applications gets charged off compared to fully paid.Almost 30000 applications are fully paid, remaining 5000+ applications are charged off.
   Most of the loan Applications fall in the 36 terms and less in 60 terms.25000+ are in 36 months term and 60 months term lies in the range of (5000 - 10000)
   15000 Loan Applications are not verified , 10000+ applications are verified and source verified lies in the range of (5000 - 10000)
